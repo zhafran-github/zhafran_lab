@@ -24,3 +24,5 @@ while x != 'done' :
             x = input('Enter Number:')
     #error handling in case user submit input other than number or the word 'done'
     except:
+        print('Invalid input')
+        x = input('Enter Number:')
