@@ -26,3 +26,7 @@ while x != 'done' :
     except:
         print('Invalid input')
         x = input('Enter Number:')
+        
+#print max and min
+print('Maximum is', largest)
+print('Minimum is', smallest)
