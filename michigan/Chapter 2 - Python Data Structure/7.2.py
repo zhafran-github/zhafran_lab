@@ -6,3 +6,5 @@ f = open(file_name)
 n = 0
 #variable to sum all of the float we get from the words
 total_float = 0
+#convert n to loat because at he and we wil put it on denominator
+k = float(n)
