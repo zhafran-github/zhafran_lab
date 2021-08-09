@@ -8,3 +8,5 @@ n = 0
 total_float = 0
 #convert n to loat because at he and we wil put it on denominator
 k = float(n)
+for line i f : 
+    
