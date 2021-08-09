@@ -2,4 +2,4 @@
 file_name = input('Enter the file name : ')
 #create an object
 f = open(file_name)
-#variable the amout
+#variable to put the amount of data containing the word we are looking for
