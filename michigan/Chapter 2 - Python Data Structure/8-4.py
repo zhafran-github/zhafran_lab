@@ -8,4 +8,4 @@ poem = poemf.split()
 a=[]
 
 for word in poem :
-    print(word)
+    a.append(word)
