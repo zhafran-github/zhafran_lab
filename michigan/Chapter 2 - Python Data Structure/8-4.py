@@ -12,3 +12,6 @@ for word in poem :
         continue
     else :
          a.append(word)
+
+a.sort()
+print(a)
